@@ -6,7 +6,7 @@ I build backend systems for SaaS, ERP, and CRM products — API layers, multi-te
 
 📍 Aleppo, Syria · Open to remote roles and relocation (Dubai / Riyadh) · GCC, Türkiye, EMEA, global remote
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-jojeh-95835b26b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-jojeh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yusufjojeh.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yassaf.jojeh@gmail.com)
 
