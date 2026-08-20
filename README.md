@@ -4,7 +4,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║ Backend Engineer · NestJS · Laravel · AI Systems ║
+║ Backend & Business Systems Engineer · Laravel · FastAPI ║
 ║ Building production SaaS, CRM & ERP platforms from Aleppo ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
