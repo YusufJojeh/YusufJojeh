@@ -26,7 +26,7 @@ I design and deliver **production-grade backend systems** — the APIs, the data
 
 - 🏗️ **Multi-tenant SaaS architectures** with complete tenant isolation
 - 🤖 **AI-integrated workflows** — LLM APIs, lead scoring, AI assistants in production
-- 🔐 **Enterprise RBAC** — 67+ permissions across complex role structures
+- 🔐 **Enterprise RBAC** — layered, policy-gated permission models across complex operational roles
 - ⚡ **Real-time systems** — WebSockets, pub/sub, event-driven backends
 - 📦 **CRM/ERP platforms** — full business logic implementation
 
@@ -79,16 +79,16 @@ A production-grade restaurant POS with complete data isolation between tenants, 
 - ✅ Multi-tenant with row-level isolation
 - ✅ Offline + real-time simultaneously (event sourcing for conflict resolution)
 - ✅ Full audit logging · Kubernetes-ready multi-replica architecture
-- ✅ Zero lost orders across 500+ simulated concurrent sessions
+- ✅ Load-tested with 500+ simulated concurrent sessions; optimistic concurrency control designed to prevent lost orders
 
 ---
 
 ### 🛍️ [Matjrii SaaS](https://github.com/YusufJojeh/matjrii-saas) — Multi-Vendor E-Commerce Platform
 > **Laravel · React · TypeScript · MySQL · Redis**
 
-SaaS platform for creating unlimited online stores with complete vendor isolation, 27+ payment gateways, 22+ languages with full RTL Arabic support, AI-generated product content, and advanced analytics per store.
+SaaS platform for creating unlimited online stores with complete vendor isolation, multiple integrated payment gateways, multi-language storefronts with full RTL Arabic support, AI-generated product content, and advanced analytics per store.
 
-- ✅ 27+ payment gateways with idempotent webhook processing
+- ✅ Multiple payment gateways with idempotent webhook processing
 - ✅ AI product content generation via LLM APIs
 - ✅ Multi-tenant with full vendor isolation
 - ✅ Subscription management · POS integration · Inventory tracking
@@ -98,12 +98,12 @@ SaaS platform for creating unlimited online stores with complete vendor isolatio
 ### 🏢 [Rakez ERP](https://github.com/YusufJojeh/rakez-erp) — Enterprise Real Estate ERP
 > **Laravel 12 · PHP 8.2+ · MySQL · PostgreSQL · OpenAI · WebSocket**
 
-Enterprise-grade ERP managing real estate sales, commission distribution with multi-party VAT-compliant calculations, 67+ role-based permissions, real-time WebSocket notifications, and an AI assistant with full Arabic support.
+Enterprise-grade ERP managing real estate sales, commission distribution with multi-party VAT-compliant calculations, a granular role-based permission model (223 canonical permissions in the inspected source), real-time WebSocket notifications, and an AI assistant with full Arabic support.
 
-- ✅ 150+ protected API endpoints
+- ✅ 150+ production API endpoints (historical)
 - ✅ Commission calculation engine with audit trail
 - ✅ OpenAI-powered AI assistant (full Arabic support)
-- ✅ Facebook & TikTok API integration for marketing budget tracking
+- ✅ Ads platform integrations (Meta, Google, TikTok) for marketing attribution
 
 ---
 
@@ -122,14 +122,14 @@ AI-powered B2B lead enrichment and qualification system using structured context
 ### 🏥 [Medical Booking System](https://github.com/YusufJojeh/medical-booking-system) — Healthcare Platform
 > **Laravel · Blade · Stripe · Jitsi · Twilio · OpenAI**
 
-AI-powered clinic booking platform with multi-role workflows (admin, doctor, patient), Stripe payment processing, Jitsi video consultations, WhatsApp reminders via Twilio, AI clinical decision support, and HIPAA compliance mechanisms.
+AI-powered clinic booking platform with multi-role workflows (admin, doctor, patient), Stripe payment processing, Jitsi video consultations, WhatsApp reminders via Twilio, AI clinical decision support, and HIPAA-aware compliance mechanisms.
 
 ---
 
 ### 🚚 [iLogistics SaaS](https://github.com/YusufJojeh/Logistics-MovingBookingSystem) — Logistics Platform
 > **Laravel · MySQL · Redis · REST APIs · JWT · RBAC · Docker**
 
-Multi-tenant logistics SaaS with real-time shipment tracking, complex reporting across millions of rows, JWT authentication with RBAC, and ~25% query performance improvement through strategic indexing and Redis caching.
+Multi-tenant logistics SaaS with real-time shipment tracking, complex reporting across millions of rows, JWT authentication with RBAC, and ~25% recurring-query performance improvement through strategic indexing and Redis caching.
 
 ---
 
