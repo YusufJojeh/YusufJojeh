@@ -2,8 +2,8 @@
 
 Backend & Business Systems Engineer — Laravel · FastAPI · NestJS · AI Agents
 
-I build backend systems for real operations: commerce, ERP/CRM, SaaS and AI-agent workflows.
-Currently at ArchitWeb SDN. BHD.; the agent-commerce backend has 26 REST operations and 21 MCP tools.
+I build backend systems for real operations: commerce, ERP/CRM, SaaS and AI-agent workflows.  
+Currently at ArchitWeb SDN. BHD.; the agent-commerce backend has 26 REST operations and 21 MCP tools.  
 I work from the first cause, enforce access boundaries, design retries and require evidence. AI proposes; the backend decides.
 
 ## Selected work
