@@ -14,7 +14,7 @@ I work with Laravel/PHP, FastAPI/Python, NestJS/TypeScript, MySQL, PostgreSQL, R
 | ProspectIQ / LeadScope | Evidence-grounded sales intelligence with 35 agent tools (24 direct, 11 approval-gated), plus concurrency and idempotency tests | FastAPI, Python, React | Public repo / local build |
 | Dhura | GCC real-estate SaaS release candidate with 443 backend tests and 163 Playwright tests | FastAPI, React, TypeScript | Release candidate |
 | Tijraa / Matjrii | Commerce SaaS with governed AI agent; 344 backend tests in the development suite | Laravel, PHP | Development |
-| CRMA | Multi-tenant CRM with organization-scoped APIs | NestJS, PostgreSQL, Redis | Development |
+| CRMA | Multi-tenant CRM with organization-scoped APIs | NestJS, PostgreSQL, Redis | Public repo / local build |
 
 ## Engineering focus
 
