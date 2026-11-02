@@ -1,20 +1,22 @@
-# Backend & Business Systems Engineer — Laravel · FastAPI · NestJS · AI Agents
+# Yusuf Jojeh
 
-I build backend systems for commerce, ERP/CRM, SaaS and AI-enabled workflows.
-My work focuses on authorization, tenant boundaries, payment integrity, retries and observable APIs.
-I work with Laravel/PHP, FastAPI/Python, NestJS/TypeScript, MySQL, PostgreSQL, Redis, MCP, Docker and CI/CD.
+Backend & Business Systems Engineer — Laravel · FastAPI · NestJS · AI Agents
+
+I build backend systems for real operations: commerce, ERP/CRM, SaaS and AI-agent workflows.
+Currently at ArchitWeb SDN. BHD.; the agent-commerce backend has 26 REST operations and 21 MCP tools.
+I work from the first cause, enforce access boundaries, design retries and require evidence. AI proposes; the backend decides.
 
 ## Selected work
 
 | Project | What it proves | Stack | Status |
 |---|---|---|---|
-| Agent-commerce backend | Safe agent access with 26 REST operations, 21 MCP tools, OAuth 2.1, checkout preflight and idempotent order provenance | PHP, REST, MCP, OAuth | Production (employer, private) |
-| Gulf endowment and donations platform | Payment, finance ledger, lease, volunteering and notification workflows; exactly one finance effect per successful payment | PHP, MySQL, Redis | Production (employer, private) |
-| Saudi real-estate ERP/CRM contribution | Business workflows, authorization, integrations and regression checks; the platform has 150+ APIs | Laravel, PHP | Production (employer, private) |
-| ProspectIQ / LeadScope | Evidence-grounded sales intelligence with 35 agent tools (24 direct, 11 approval-gated), plus concurrency and idempotency tests | FastAPI, Python, React | Public repo / local build |
-| Dhura | GCC real-estate SaaS release candidate with 443 backend tests and 163 Playwright tests | FastAPI, React, TypeScript | Release candidate |
-| Tijraa / Matjrii | Commerce SaaS with governed AI agent; 344 backend tests in the development suite | Laravel, PHP | Development |
-| CRMA | Multi-tenant CRM with organization-scoped APIs | NestJS, PostgreSQL, Redis | Public repo / local build |
+| Rakez ERP/CRM (employer) | Production real-estate workflows; the platform has 150+ APIs | Laravel, PHP | Production (employer, private code) |
+| ProspectIQ | Evidence-grounded sales intelligence with workspace scope and approval-gated actions | FastAPI, Python, React | Public repo / local build |
+| RecafeOS | Multi-tenant restaurant operations across POS, orders and inventory | Laravel, TypeScript | Public repo / local build |
+| mtjri | Multi-store commerce workflows with tenant-aware administration | Laravel, PHP | Public repo / local build |
+| algoag-ai-competitive-platform | Contest, standings and coding-practice workflows | Laravel, React, Python | Public repo / local build |
+| Agenti | AI-assisted marketing workflows for drafting, analysis and scheduling | Python, Flask, TypeScript | Public repo / local build |
+| SmartQ | Queue and service operations with role-aware workflows | Laravel, React | Public repo / local build |
 
 ## Engineering focus
 
@@ -26,7 +28,4 @@ I work with Laravel/PHP, FastAPI/Python, NestJS/TypeScript, MySQL, PostgreSQL, R
 
 ## Links
 
-- [Portfolio](https://portfolio-zeta-ashy-83azovwdjo.vercel.app/en)
-- [LinkedIn](https://www.linkedin.com/in/yusuf-jojeh/)
-- [Email](mailto:yusufmohammdjojeh@gmail.com)
-- [GitHub](https://github.com/YusufJojeh)
+[Portfolio](https://portfolio-zeta-ashy-83azovwdjo.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/yusuf-jojeh/) · [GitHub](https://github.com/YusufJojeh) · [Email](mailto:yusufmohammdjojeh@gmail.com)
