@@ -15,8 +15,7 @@ I work from the first cause, enforce access boundaries, design retries and requi
 | RecafeOS | Multi-tenant restaurant operations across POS, orders and inventory | Laravel, TypeScript | Public repo / local build |
 | mtjri | Multi-store commerce workflows with tenant-aware administration | Laravel, PHP | Public repo / local build |
 | algoag-ai-competitive-platform | Contest, standings and coding-practice workflows | Laravel, React, Python | Public repo / local build |
-| Agenti | AI-assisted marketing workflows for drafting, analysis and scheduling | Python, Flask, TypeScript | Public repo / local build |
-| SmartQ | Queue and service operations with role-aware workflows | Laravel, React | Public repo / local build |
+| Trendline | Subscription lifecycle workflows with idempotent payments and reconciliation | Laravel, PHP | Public repo / local build |
 
 ## Engineering focus
 
