@@ -1,53 +1,40 @@
-# Yusuf Jojeh
+# Yusuf Mohammad Jojeh
 
-Backend & Business Systems Engineer — Laravel · FastAPI · NestJS · AI Agents
+**Backend & Applied AI Engineer · PHP/Laravel · Python/FastAPI**
 
-I build backend systems for real operations: commerce, ERP/CRM, SaaS and AI-agent workflows.  
-Currently at ArchitWeb SDN. BHD.; the agent-commerce backend has 26 REST operations and 21 MCP tools.  
-I work from the first cause, enforce access boundaries, design retries and require evidence. AI proposes; the backend decides.
-
-## ArchitWeb work — measurable outcomes
-
-**At a glance:** 26 REST operations · 21 MCP tools · 600+ tests · 4,000+ assertions · 4 PRs · 15 linked work items (8 delivered, 7 delegated) · 1 successful payment = exactly 1 finance effect.
-
-**Backend Developer · ArchitWeb SDN. BHD. · Remote · Sep 2026 — Present**
-
-- Built an agent-commerce backend that lets external AI agents shop safely. It has 26 REST operations, 21 MCP tools, OAuth 2.1 and integration keys, checkout preflight, wallet-only direct orders, signed status webhooks and idempotent order provenance.
-- Owned the backend of a Gulf endowment and donations platform (payments, finance ledger, lease installments, volunteering, notifications). Payment confirmation is idempotent: one successful payment creates exactly one finance effect.
-- Kept a 600+ test suite (4,000+ assertions) green through security hardening. Traced a session-loss defect to its root cause in redirect handling and fixed it across 4 PRs, with regression tests.
-- Planned an AI coding-agent platform upgrade as 15 dependency-linked work items with acceptance criteria and evidence gates. Delivered 8 and delegated 7, including a runtime migration with config-only rollback.
-- Added canonical logging and X-Request-Id correlation for end-to-end tracing.
-- Wrote research reports that changed decisions: a QA-agent assessment the team adopted, and a pricing-automation feasibility study that recommended not building yet.
+I build software for commerce and business operations. Since 2022, I have worked on backend APIs, ERP/CRM systems, payment integrations, and AI-enabled workflows. I also build and review frontend work with React.js, Next.js, and Vue.js.
 
 ## Selected work
 
-| Project | What it proves | Stack | Status |
-|---|---|---|---|
-| Rakez ERP/CRM (employer) | Production real-estate workflows; the platform has 150+ APIs | Laravel, PHP | Production (employer, private code) |
-| ProspectIQ | Evidence-grounded sales intelligence with workspace scope and approval-gated actions | FastAPI, Python, React | Public repo / local build |
-| RecafeOS | Multi-tenant restaurant operations across POS, orders and inventory | NestJS, TypeScript, React.js | Public repo / deployed staff-login surface |
-| mtjri | Multi-store commerce workflows with tenant-aware administration | Laravel, PHP | Public repo / local build |
-| algoag-ai-competitive-platform | Contest, standings and coding-practice workflows | Laravel, React, Python | Public repo / local build |
-| Trendline | Subscription lifecycle workflows with idempotent payments and reconciliation | Laravel, PHP | Public repo / local build |
+- Built a production agent-commerce integration with **26 REST operations and 21 MCP tools**, OAuth 2.1, customer spending controls, and shared REST/MCP rate limiting.
+- Fixed a wallet top-up flow and checked retries, payment ownership, amounts, and concurrency with **205 assertions** before QA handoff.
+- Owned backend delivery for an Omani endowment platform. A later platform hardening run passed **630 tests and 4,018 assertions**.
+- Planned a **15-task coding-agent pipeline upgrade** and delivered the eight-task track assigned to me, alongside a teammate responsible for the other seven tasks.
+- Introduced a QA handoff format that the team formally adopted: root cause, changed behavior, exact checks, and unverified paths.
 
-## Engineering focus
+## How I work
 
-- Backend authorization and role-based access control
-- Multi-tenant data boundaries
-- Idempotent payments, orders and webhooks
-- AI-agent integrations with explicit backend permissions
-- Regression tests, failure handling and request tracing
+I define API contracts, keep payment and authorization rules in the backend, and test failure paths before handoff. I distinguish staging verification from production release.
 
-## Availability and education
+My technical-lead responsibilities on a production Laravel/Vue.js ERP/CRM included architecture decisions, task allocation, and frontend integration reviews. I have also tutored more than 100 university students.
 
-Available immediately for remote backend and applied AI roles; open to GCC/EMEA relocation.
+## Tools
 
-Al-Shahbaa University — Information Engineering & Distributed Systems, 2021–2026 (started in late 2021).
+**Backend:** PHP, Laravel, custom PHP frameworks, Python, FastAPI, NestJS, TypeScript  
+**Frontend:** React.js, Next.js, Vue.js  
+**Data and delivery:** MySQL, MariaDB, PostgreSQL, Redis, Docker, Linux, GitHub Actions  
+**Interfaces and automation:** REST, GraphQL, MCP, OAuth 2.1, n8n, LLM integrations  
+**Testing:** PHPUnit, Playwright
 
-## Clinic sales operations
+## Education and learning
 
-A clinic sales and treatment-plan application covering staff access, PDF generation, archived report versions and manager review. Built with React.js, TypeScript, Supabase/PostgreSQL and Vercel functions. Client identities and patient information are withheld.
+- B.Eng. Information Engineering & Distributed Systems — Al-Shahbaa University, 2021–2026.
+- Syrian Collegiate Programming Contest finalist, 2023–2024.
+- IBM AI Developer Professional Certificate — completed April 18, 2026.
+- IBM RAG and Agentic AI learning path — in progress. Completed *Vector Databases for RAG: An Introduction*.
 
-## Links
+## Contact
 
-[Portfolio](https://portfolio-zeta-ashy-83azovwdjo.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/yusuf-jojeh/) · [GitHub](https://github.com/YusufJojeh) · [Email](mailto:yusufmohammdjojeh@gmail.com)
+Based in Aleppo, Syria. Available immediately for remote roles and open to relocation to the GCC.
+
+[Portfolio](https://portfolio-zeta-ashy-83azovwdjo.vercel.app/en) · [LinkedIn](https://linkedin.com/in/yusuf-jojeh-95835b26b) · [Email](mailto:yusufmohammdjojeh@gmail.com)
